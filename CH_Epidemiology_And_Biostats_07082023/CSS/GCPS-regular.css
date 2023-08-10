@@ -233,3 +233,32 @@ blockquote {
    --panel-tab-inactive-opacity: 0.5;
    --panel-tabs-border-bottom: #ddd;
    }
+   
+ .about-slide {
+     background-color: #000000;
+     color: red;
+   }
+   
+.about-slide h1 {
+       font-size: 50px;
+       color: gold;
+   }
+ 
+.about-slide h2 {
+       font-size: 35px;
+       color: grey;
+   }
+   
+ 
+ .about-slide h3 {
+       font-size: 25px;
+       color: white;
+       font-family: Times New Roman;
+       font-weight: normal;
+   }
+   
+.about-slide a {
+    color: grey;
+    font-size; 35px;
+}
+   

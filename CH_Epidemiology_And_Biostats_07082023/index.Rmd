@@ -57,6 +57,24 @@ class: wine-slide middle center
 # No conflict of interest to declare.
 ----
 
+---
+class: about-slide middle center
+
+# About me
+
+<img src="Images/sammyblay.png" style="width: 15%" />
+
+## Samuel Blay Nguah
+
+###Senior Lecturer in Pediatrics <br>
+###School of Medicine & Dentistry <br>
+###Kwame Nkrumah University of Science and Technology
+
+
+[`r fontawesome::fa("book")` E-book](https://medstatswithr.netlify.app)
+[`r fontawesome::fa("twitter")` @sbnguah](https://twitter.com/sbnguah)
+[`r fontawesome::fa("link")` @sbnguah](https://github.com/sbnguah)
+[`r fontawesome::fa("github")` @sbnguah](https://github.com/sbnguah)
 
 ---
 # Outline
@@ -545,7 +563,7 @@ class: middle center
 ---
 # Boxplot
 ----
-```{r fig.retina=3, fig.width=9, fig.height=4.5}
+```{r fig.retina=3, fig.width=9, fig.height=4.5, warning=F}
 df_newdrug <- readstata13::read.dta13("./Dataset/NewDrug.dta")
 df_newdrug %>% 
     mutate(treat = factor(treat, levels = c(0, 1), labels = "Case","Control")) %>% 
