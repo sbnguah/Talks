@@ -1,0 +1,412 @@
+---
+title: "Hypertension in Children"
+author: "Dr Samuel Blay Nguah"
+institute: "Department of Child Health <br> Kwame Nkrumah University of Science and Technology"
+title-slide-attributes:
+    data-background-image: ./Images/gsc_logo.jpeg
+    data-background-size: 20rem
+    data-background-opacity: "0.15"
+format: 
+    revealjs:
+        footer: "[Ghanaian Society of Cardiology](https://www.gsc-gh.org/)"
+        theme: [CSS/mystyle.scss]
+        preview-links: auto
+        scrollable: true
+        slide-number: c/t
+        logo: ./Images/gsc_logo.jpeg
+        show-slide-number: all
+        width: 1200
+        height: 650
+        chalkboard: 
+            boardmarker-width: 5
+from: markdown+emoji
+execute:
+  echo: true
+editor: visual
+---
+
+## Outline
+
+<hr>
+
+-   Definition
+-   Current outlook & risks
+-   BP measurement
+-   Diagnostic criteria for hypertension
+-   Investigation
+-   Treatment
+
+![](Images/bp-measurement-child-2.jpg){.absolute bottom="100" right="100" height="400"}
+
+## Hypertension
+
+<hr>
+
+::: {.callout-note title="Definition (Flynn et al.,2017)"}
+Blood pressure at or above the 95th percentile for children with the same **SEX**, **AGE** and
+**HEIGHT**.
+:::
+
+. . .
+
+![](Images/esc-ped-hpt-definition.png){.absolute right="100" bottom="50" height="300"}
+
+## Current Outlook
+
+<hr>
+
+::: columns
+::: {.column width="\"50%"}
+-   This leads to early-onset complications of hypertension
+-   Increases prevalence of hypertension in adulthood
+-   Commoner in Black and Hispanics
+-   Commoner in males
+-   3.5% of US children have hypertension
+-   Increased incidence of dyslipidemia, pre-diabetes
+:::
+
+::: {.column width="\"50%"}
+-   Primary hypertension is now more common in the USA (esp. \>6 years, obesity)
+
+![](Images/hpt-cartoon.jpg){.absolute bottom="0" right="0" width="400"}
+:::
+:::
+
+## Africa/Ghana
+
+<hr>
+
+![](Images/Hypertension-prevalence-africa.png){.absolute right="20" bottom="0" width="500"}
+
+::: {.absolute top="50%" left="70%" right="0%"}
+::: {style="color: grey; font-size: 0.7em;"}
+[*Noubiap, et. al, 2022*]{style="color: red; font-size: 0.8em;"}
+:::
+:::
+
+. . .
+
+![](Images/ped-hpt-risks-1.png){.absolute right="20" bottom="50" width="600"}
+
+::: {.absolute top="50%" left="70%" right="0%"}
+::: {style="color: grey; font-size: 0.7em;"}
+[*Sungwa, et. al, 2022*]{style="color: red; font-size: 0.8em;"}
+:::
+:::
+
+. . .
+
+![](Images/ped-hpt-risks-2.png){.absolute right="0" bottom="50" width="600"}
+
+. . .
+
+. . .
+
+::: {.absolute top="28%" left="0%" right="60%"}
+::: {style="color: grey; font-size: 0.7em;"}
+Overall, 8.5% (n = 51) of children out of the 600 had elevated blood pressure. Elevated blood
+pressure was significantly prevalent among obese children 18.2% (n = 12), followed by overweight
+13.4% (n = 9) and the normal weight of 6.4% (n= 30) for school children (p = 0.002). <br> [(*Taiba
+et. al, 2022*)]{style="color: red; font-size: 0.8em;"}
+:::
+:::
+
+## Guidelines...
+
+<hr>
+
+![](Images/ped-hpt-guidelines-2004.png){.absolute right="100" bottom="00" width="1000" height="520"}
+
+. . .
+
+![](Images/esh-hpt-guidelines.png){.absolute right="100" bottom="00" width="1000" height="520"}
+
+. . .
+
+![](Images/aap-hpt-guidelines.png){.absolute right="100" bottom="00" width="1000" height="520"}
+
+## Measuring BP
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+### How?
+
+-   Rest for 5 mins
+-   Sit upright, feet on the floor
+-   Right arm
+-   Appropriate cuff size
+    -   Bladder length = 80-100% of arm circumference
+    -   Bladder width \>= 40% of arm circumference
+:::
+
+::: {.column width="50%"}
+![](Images/bp-measure-procedure.png){.absolute right="0" bottom="50" height="400"}
+:::
+:::
+
+## Measuring BP
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+### Equipment?
+
+-   Auscultatory
+    -   This is the best method
+    -   Use K1 (Systolic) and K5 (Diastolic)
+-   Oscillometric
+    -   Should be validated first
+    -   Usually about 5-10mmHg above the auscultatory method
+    -   Repeat with auscultatory method if \> 90th percentile
+:::
+
+::: {.column width="50%"}
+![](Images/sphyg-oscollometric-device.jpg){.absolute right="0" bottom="300" height="300"}
+
+![](Images/sphyg-auscultation-device.jpg){.absolute right="0" bottom="0" height="300"}
+:::
+:::
+
+## Measuring BP
+
+<hr>
+
+### Who?
+
+-   \> 3 years old - [Yearly]{.highlight}
+-   \> 3 years with risk factors - [Every encounter]{.highlight}
+    -   E.g.: Renal disease, Obesity, Diabetes, CoA, Hypertension associated medications
+-   \< 3 years old with risks - [Every encounter]{.highlight}
+    -   Extreme prematurity, NICU care, VLBW, CHD,
+    -   Recurrent UTI, Hematuria, Renal disease, Family history of Renal disease, etc.
+    -   Turner's syndrome
+
+## Measuring BP
+
+<hr>
+
+### Procedure
+
+-   Measure the child’s height
+-   Determine the height centile.
+    -   If the height centile falls between 2 centiles, use the closest centile.
+    -   Otherwise, use the lower height centile.
+-   3 measurements, average last 2
+-   Determine the blood pressure centile.
+-   Classify blood pressure using the definitions below.
+
+![](Images/measurung-height-cartoon.png){.absolute right="0" bottom="0" width="400"}
+
+## Measuring BP
+
+<hr>
+
+![](Images/bp-centile-chart.png){.absolute right="0" bottom="0" width="1300"}
+
+## Measuring BP
+
+<hr>
+
+### Classification
+
+![](Images/esc-ped-hpt-definition.png){.absolute right="0" bottom="10" height="450"}
+
+## What next?
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+### Normal BP
+
+-   Measure again in a year
+-   Healthy lifestyle
+    -   Low salt diet, Regular exercise, Weight control
+
+### Elevated BP
+
+-   Lifestyle modification
+-   Repeat 4 limbs BP in 6 and 12 months
+-   If still elevated BP then ABPM
+:::
+
+::: {.column width="50%"}
+### Stage I
+
+-   Lifestyle modification
+-   Repeat in 1-2 weeks for 4 limb BPs
+-   Repeat in 3 months
+-   If elevated, ABPM $\pm$ Drug treatment
+:::
+:::
+
+## What next?
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+### Stage II
+
+-   4 limb BPs check
+-   Should repeat in 1 week, within which ABPM $\pm$ Drug treatment $\pm$ Other investigations
+
+### Greater than 13 years
+
+-   Repeat BP at the same visit
+-   Classify accordingly
+:::
+
+::: {.column width="50%"}
+### Emergency referral
+
+-   Symptomatic
+-   Stage II hypertension
+    -   BPs \>30mmHg above 95th percentile in children or
+    -   \>= 180/120mmHg in adolescents
+-   They have a high risk of hypertensive emergency
+:::
+:::
+
+## Clinical evaluation
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+### History & Examination
+
+-   Associated symptoms
+    -   Chronic Headache, tinnitus, visual disturbance, etc
+-   Possible cause of hypertension
+    -   **Renal**: UTI,
+    -   **Cardiac**: Palpitation, easy fatiguability, etc
+    -   **Metabolic**: Cushing's syndrome, etc
+    -   **Medications**: Steroids, NSAIDs
+    -   **Genetic disorders** - William's syndrome, Turner's syndrome
+:::
+
+::: {.column width="50%"}
+<br>
+
+-   Possible cause of hypertension
+    -   **Newborn issues**: Prematurity, Low birth weight, maternal hypertension, etc
+    -   **Endocrine**: Hyperthyroidism, Congenital Adrenal Hyperplasia, etc
+    -   **Nutritional**: Obesity, Overweight, Increased salt intake
+    -   **Oncoligcal**: Phaechromaocytoma, Neuroblastoma
+:::
+:::
+
+## Ambulatory BP Monitoring
+
+<hr>
+
+-   Measures every 20-30mins for 24 hours
+-   Improved accuracy
+-   A better predictor of end-organ damage
+-   Diurnal variation in BP
+-   Assess nocturnal dipping
+-   Better reflect daily BP status
+
+![](Images/ABPM-in-a-child-small.jpg){.absolute right="0" bottom="0" width="400"}
+
+## Laboratory
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+### All hypertensives
+
+-   Electrolytes
+-   Blood urea nitrogen and creatinine
+-   Urinalysis
+-   Lipid profile
+:::
+
+::: {.column width="50%"}
+### Obese hypertensives
+
+-   Fasting lipid profile
+-   Hemoglobin A1C
+-   AST, ALT
+
+### Others
+
+-   Based on the clinical presentation
+-   Echocardiogram to determsine
+    -   End organ damage & for follow-up
+:::
+:::
+
+## Therapy
+
+<hr>
+
+### Goal
+
+-   BP \< 90th percentile OR
+-   BP \< 130/80 mmHg
+
+### Assymptomatic
+
+-   Healthy diet
+    -   Low salt, oils, sweetened-beverages
+    -   Lean protein source: meat, fish, legumes, etc
+    -   Veges, fruits
+-   Regular exercise (3-5 days a week, 30-60 minutes)
+
+![](Images/children-playing.jpg){.absolute right="0" top="0" width="400"}
+
+![](Images/healthy-ghanaian-diet.png){.absolute right="0" bottom="0" width="400"}
+
+## Pharmacological Therapy
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+### Who?
+
+-   6 months after lifestyle changes
+-   Symptomatic
+-   Lack of modifiable factors
+-   Stage II
+-   Chronic kidney disease
+-   Diabetes mellitus
+:::
+
+::: {.column width="50%"}
+### What?
+
+-   Long-acting (once-daily medication)
+-   Maximise dosage over 2-4 weeks before adding on
+-   Consider underlying conditions
+-   ACE-I and ARBs
+-   Beta-blocker
+-   Calcium channel blocker
+-   Diuretic
+-   Others (methyl dopa, etc)
+:::
+:::
+
+## Combining drugs
+
+<hr>
+
+![](Images/ped-hpt-drug-treatment.png){.absolute right="100" bottom="0" width="1000"}
+
+## Take home
+
+<hr>
+
+-   Hypertension in children is commoner than we think
+-   All children \> 3 years should be screened yearly for hypertension
+-   Let's preach and practice a "Healthy Lifestyle"
+
+![](Images/take_home_message.jpg){.absolute right="0" bottom="0" width="400"}
+
+# Thank you! :pray: {.center}
