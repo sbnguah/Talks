@@ -1,0 +1,1307 @@
+---
+title: "Research Methodology"
+author: "Dr. Samuel Blay Nguah"
+date: last-modified
+institute: "Kwame Nkrumah University of Science and Technology"
+title-slide-attributes:
+    data-background-image: ./Images/gcps_logo.jpeg
+    data-background-color: white
+    data-background-size: 15rem
+    data-background-opacity: "0.2"
+format: 
+    revealjs:
+        margin-left: "5px"
+        scrollable: true
+        slide-number: c/t
+        show-slide-number: all
+        theme: [solarized, SCSS/GCPS-Regular.scss]
+        logo: ./Images/gcps_logo.jpeg
+        footer: <https://sbnguah.github.io>
+        transition: slide
+        width: 1200
+        height: 675
+from: markdown+emoji
+citations-hover: true
+editor: visual
+---
+
+## Outline
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+**Methods**
+
+-   Qualitative
+-   Quantitative
+-   Mixed-method
+:::
+
+::: {.column width="50%"}
+**For Each**
+
+-   Study designs
+-   Sampling
+-   Sample size
+-   Data collection
+-   Data entry tools
+-   Analysis methods
+-   Presentation of results
+:::
+:::
+
+## What is Research Methodology?
+
+<hr>
+
+::: {.callout-note icon="false" title="Definition"}
+A structured and scientific approach used to collect, analyze, and interpret quantitative or
+qualitative data to answer research questions or test hypotheses.$^1$
+:::
+
+. . .
+
+::: {.callout-note icon="false" title="Details"}
+Entails all the important aspects of research:
+
+-   Research design,
+-   Data collection methods,
+-   Data analysis methods
+-   Overall framework within which the research is conducted.$^1$
+:::
+
+::: footer
+$^1$ <https://paperpal.com/blog/academic-writing-guides/what-is-research-methodology>
+:::
+
+## Questions?
+
+<hr>
+
+-   Which study methodology should I use?
+-   What are the advantages and disadvantages?
+-   What are their strengths and weaknesses?
+
+![](Images/lets-go.jpeg){.absolute bottom="0" right="10" width="460" height="330"}
+
+# Qualitative methods {.center background-color="#0C7489"}
+
+## What is qualitative research
+
+<hr>
+
+::: columns
+::: {.column width="45%"}
+1.  Involves collecting and analyzing non-numerical data. Example:
+    -   Interview transcripts
+    -   Documents
+    -   Survey responses
+    -   Images
+    -   Visuals
+    -   Videos
+    -   Audios
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+2.  Understand concepts, opinions experiences and contents
+3.  Used to
+    -   Gather in-depth insights into a problem\
+    -   Generate new ideas for research $^1$
+4.  This is more subjective
+:::
+:::
+
+::: footer
+$1$ <https://www.scribbr.com/methodology/qualitative-research/>
+:::
+
+## Study designs
+
+<hr>
+
+Two main types:
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+**Population-based**:
+
+-   Survey and polls
+-   [In-depthh Interviews (KII)]{.highlight}
+-   [Focus Group Discussion]{.highlight}
+-   Observations
+:::
+
+::: {.column width="50%"}
+**Document based**
+
+-   Case study
+-   [Content research]{.highlight}
+-   [Systematic Literature Review]{.highlight}
+:::
+:::
+
+## Systematic Literature Review
+
+<hr>
+
+::: {.callout-note icon="false" title="Definition"}
+This is a comprehensive and unbiased type of literature review that systematically searches,
+identifies, selects, appraises, and synthesizes research evidence relevant to the research question
+:::
+
+<br>
+
+-   Desk based study
+-   Information already exists
+-   There is a specific question to be answered
+-   Prone to bias
+
+## Systematic Literature Review II
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Steps
+
+-   Hypothesis
+-   Study question
+-   Protocol development
+-   Study selection
+-   Data extraction
+-   Quality assessment
+:::
+
+::: {.column width="50%"}
+**Protocol development**
+
+-   Outline problem or knowledge gap
+-   Formulate research problem
+-   Define search strategy
+    -   Databases to search
+    -   Search words
+-   Inclusion & exclusion criteria
+-   Data extraction techniques
+-   Strategy for quality assessment
+:::
+:::
+
+## Systematic Literature Review III
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Search strategy
+
+-   Which databases would be used?
+-   Which level of evidence will be included?
+    -   RCTs, etc
+-   How will the search be done? "Pubmed with MESH"?
+-   What search words to include
+-   Quality control: Two independent searches?
+:::
+
+::: {.column width="50%"}
+Appraisal & synthesis
+
+-   Select studies
+-   Extract data
+-   Synthesize data
+
+<br>
+
+Reporting findings
+
+-   Writing the reviews
+-   Publishing
+:::
+:::
+
+## Content research I {.hide}
+
+<hr>
+
+::: {.callout-note icon="false" title="Definition"}
+A research tool used to determine the presence of certain words, themes, or concepts within some
+given qualitative data.
+:::
+
+Application
+
+-   Quantify and analyze the presence, meanings, and relationships of certain words, themes, or
+    concepts.
+-   E.g: Is there a bias in articles written about Pres. Nana Akufo-Addo?
+    -   We look specifically for trends, special words that may connote bias or partiality.
+
+## Content research II {style="font-size: 38px;"}
+
+<hr>
+
+Uses
+
+-   Identify the intentions, focus, or communication trends
+-   Describe attitudinal and behavioral responses to communications
+-   Determine the psychological or emotional state of persons or groups
+-   Reveal differences in communication content
+-   Reveal patterns in communication content
+-   Pre-test and improve an intervention or survey before launch
+-   Analyze focus group interviews and open-ended questions to complement quantitative data (Mixed
+    method)
+
+## Key informant interviews I
+
+<hr>
+
+::: {.callout-note icon="false" title="Definition"}
+Key Informant Interviews (KIIs) are specialized qualitative interviews conducted with individuals
+(key informants) recognized for their insider knowledge or unique perspectives on a specific topic.
+:::
+
+![](./Images\key-informant-interview.jpg){.absolute bottom="20" right="100" width="300"}
+
+## Key informant interviews III
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+How?
+
+-   Conducted one-on-one:
+    -   Face-to-Face
+    -   Telephone or Online
+-   Less formal structured
+:::
+
+::: {.column width="50%"}
+Why?
+
+-   Provides direct information from stake holders
+-   Gives understanding of decisions, etc
+-   As a basis for a quantitative study
+-   generate recommendations
+:::
+:::
+
+## Key Informant Interviews IV
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Procedure
+
+-   Select people who fit criteria
+-   Schedule a one-on-one interview session
+-   Develop a plan for the interview
+-   Be ready to modify on the fly
+-   Record responses
+:::
+
+::: {.column width="50%"}
+:::
+:::
+
+## Focus Group Discussion
+
+<hr>
+
+::: {.callout-note icon="false" title="Definition"}
+A qualitative research method that involves facilitating a small group discussion with participants
+who share common characteristics or experiences that are relevant to the research topic.
+:::
+
+![](./Images\focus-group-discussion.jpg){.absolute bottom="20" right="20" width="400"}
+
+## Focus Group Discussion II
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Planning the session
+
+1.  Plan your session setup
+    -   Venue
+    -   How many participants
+    -   How will they be recruited?
+2.  Participants
+    -   Must resemble target population
+    -   8-12 is usual
+        -   Too few narrows the perspectives
+        -   Too many means limited perspective from some members
+:::
+
+::: {.column width="50%"}
+3.  Who will facilitate or lead?
+    -   Researcher
+    -   Another person
+    -   Embedded participant
+4.  Who and how will sessions be recorded?
+    -   Researcher
+    -   Assistant
+    -   Video or Audio recording
+:::
+:::
+
+## Focus Group Discussion III
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Planning the session
+
+5.  Come up with questions to ask
+    -   Open-ended questions
+    -   Should encourage exploration
+    -   Should generate discussion. Example:
+        -   What do you think about our services?
+        -   What do you think about our competitors?
+        -   What do you wish for in terms oourut services?
+:::
+
+::: {.column width="50%"}
+Running the session
+
+-   Consent
+-   Record with video or sound
+-   Make participants comfortable. Everyone introduces themselves.
+-   Ask your questions as well as followup questions
+-   Engage everyone in the group
+:::
+:::
+
+## Focus Group Discussion IV
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Analyzing the data
+
+-   Rewatch the interview
+-   Check for themes
+-   Understand the patterns emerging
+-   Go for further data if required
+:::
+
+::: {.column width="50%"}
+Validating the conclusions
+
+-   Get someone else to review the data
+-   Remember findings are from a small sample size
+-   Observer bias - participants know they are being observed so may alter
+    -   Behaviour
+    -   Responses
+:::
+:::
+
+## Sampling & Sample size
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Sampling population
+
+-   Usually purposive
+-   Study type dependent
+-   Apply strict inclusion & Exclusion criteria
+-   be mindful of saturation
+-   30 participants usually enough
+:::
+
+::: {.column width="50%"}
+Sampling document
+
+-   Study type specific
+-   Literature review: 20-30
+-   Others: Subject specific
+:::
+:::
+
+## Data collection & management {style="font-size:36px;"}
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Data Collection
+
+-   Ensure you have a good background knowledge
+-   Choose the right respondent
+-   A good introduction about yourself
+-   Consent & confidentiality
+-   Minimize disruption
+-   Be familiar with your research guide
+-   Data collected may include Videos, Audio recording, Write-up, Questionnaires, and Transcripts
+:::
+
+::: {.column width="50%"}
+Data Management
+
+-   Starts as soon as data collection
+-   Revisit data during collection
+-   Makes notes during or immediately after interview
+-   Organise and store de-identified data
+-   Transcribe data - Manual or software
+-   Data coding & interpretation:
+    -   Manual or Software (advisable) e.g. NVIVO
+:::
+:::
+
+## Qualitative Analysis methods - I
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Six main methods
+
+1.  **Content** analysis
+2.  **Narrative** analysis
+3.  **Discourse** analysis
+4.  **Thematic** analysis
+5.  Grounded theory'
+6.  IPA
+:::
+
+::: {.column width="50%"}
+1.  [**Content** analysis]{.gcpsred}
+    -   Examines patterns in words, images, etc
+    -   Identify frequency of words, phrases, etc
+    -   Group into frequency, etc
+    -   Need to approach with a plan e.g. [*"How many times does 'happy' appear in my
+        interview?"*]{.red}
+    -   Can be time consuming
+    -   Can miss some important info in the data
+:::
+:::
+
+## Qualitative Analysis methods - II
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+2.  [**Narrative** analysis]{.gcpsred}
+    -   Listening to people telling stories and analysing
+    -   Pay attention to what and how story is told.
+    -   E.g.: Narrative of a customer about a product
+        -   Listen
+        -   Analysimpressionson, likes, hate, etc
+    -   *Disadvantages*: Small sample size and poor reproducibility
+:::
+
+::: {.column width="50%"}
+3.  [**Discourse** analysis]{.gcpsred}
+    -   Analysis of conversation, interactions, speech, etc within its context
+    -   Culture and circumstances are important here
+    -   E.g.: Analyse how a CEO speaks to his employees
+    -   Should have specific research question beforehand
+    -   Involves sampling to saturation (New data adds no more information)
+:::
+:::
+
+## Qualitative Analysis methods - III
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+4.  [**Thematic** analysis]{.gcpsred}
+    -   Takes often large data
+    -   Looks for patterns (themes) within data
+    -   Groups them as such
+    -   Good for finding out views, experiences and opinions
+    -   Study question and objective can evolve
+    -   E.g.: Customers' opinion about health care provision in a hospital
+:::
+
+::: {.column width="50%"}
+5.  [Grounded theory]{.gcpsred}
+    -   Uses data to develop theory
+    -   Go into the analysis with an open mind
+    -   Develop the theory from ground up
+    -   E.g.: What what treatment patients prefer and why?
+    -   This theory develops from the data and not preconceived
+    -   Useful for an area not researched
+:::
+:::
+
+## Presentation of results
+
+<hr>
+
+1.  With themes
+    -   Frequencies
+    -   Patterns
+    -   Compare to other studies
+    -   Make conclusions
+2.  As text and narrative
+
+# Quantitative methods {.center background-color="#456990"}
+
+## What is quantitative research
+
+<hr>
+
+-   Usually deals with numbers and statistics
+-   Used to [**measure**]{style="color: red; font-weight: bold"} differences or
+    [**test**]{style="color: red; font-weight: bold"} between groups
+
+## Study designs
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+**Descriptive**
+
+-   Case study & series
+-   Cross-sectional study
+-   Qualitative study
+
+<br>
+
+**Exploratory**
+
+-   Cohort study
+-   Case control study
+:::
+
+::: {.column width="50%"}
+**Experimental**
+
+-   True experimental designs
+-   Quasi-experimental designs
+
+<br>
+
+**Others**
+
+-   Systematic Review
+-   Meta-analysis
+:::
+:::
+
+## Cross-sectional Study
+
+<hr>
+
+-   Researcher studies a stratified group of subjects at one point in time
+-   Draws conclusions by comparing the characteristics of the stratified groups
+-   Well-suited to describing variables and their distribution patterns
+-   Can be used for examining associations;
+-   Determination of which variables are predictors, and which are outcomes depends on the
+    hypothesis:
+
+::: {.callout-note icon="false"}
+## Example
+
+*Does lead paint ingestion cause hyperactivity OR does hyperactivity lead to lead paint ingestion?*
+:::
+
+## Cross-sectional study
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+**Strengths**
+
+-   Fast and inexpensive
+-   No loss to follow-up (no follow-up)
+-   Ideal for studying prevalence
+-   Convenient for examining potential networks of causal links
+:::
+
+::: {.column width="50%"}
+**Weaknesses:**
+
+-   Cannot establish causal relationship
+-   Does not establish sequence of events)
+-   Not practical for studying rare phenomena
+:::
+:::
+
+## Cohort Study
+
+::: {.callout-note icon="false"}
+## What is a cohort?
+
+**A group of individuals who do not yet have the outcome of interest are followed together over time
+to see who develops the condition**
+:::
+
+-   Participants are interviewed or observed to determine the presence or absence of certain
+    exposures, risks, or characteristics
+-   May be simply descriptive
+-   May identify risk by comparing the incidence of specific outcomes in exposed and not exposed
+    participants
+
+## Cohort Study
+
+<hr>
+
+::: columns
+::: {.column wifth="50%"}
+**Strengths**
+
+-   Powerful strategy for defining incidence and investigating potential causes of an outcome before
+    it occurs
+-   Time sequence strengthens inference that the factor may cause the outcome
+:::
+
+::: {.column wifth="50%"}
+**Weaknesses**
+
+-   Expensive, many subjects must be studied to observe outcome of interest
+-   Potential confounders: eg, cigarette smoking might confound the association between exercise and
+    CHD
+:::
+:::
+
+## Case-Control Study
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Generally retrospective
+
+-   Identify groups
+    -   Cases (outcome present)
+    -   Controls (Outcome absent)
+    -   Matched or unmatched
+-   Look backward in time to find differences in:
+    -   Predictor variables
+:::
+
+::: {.column width="50%"}
+**Assumption:**
+
+-   Differences in exposure =\> Different outcomes
+
+**Data collection** via:
+
+-   Direct interview
+-   Mailed questionnaire
+-   Chart review
+-   etc
+:::
+:::
+
+## Case-Control Study II
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+**Strengths**
+
+-   Rare conditions
+-   Short duration & relatively inexpensive
+-   High yield of information from relatively few participants
+-   Useful for generating hypotheses
+:::
+
+::: {.column width="50%"}
+**Weaknesses**
+
+-   Increased susceptibility to bias
+    -   Separate sampling of cases and controls
+    -   Retrospective measurement of predictor variables
+-   No way to estimate the excess risk of exposure
+-   Only one outcome can be studied
+:::
+:::
+
+## Experimental studies
+
+<hr>
+
+-   To compare 2 or more groups by:
+    -   Randomization
+    -   Non-randomization
+
+**Assumption**:
+
+-   The groups differ solely on the intervention applied\
+-   Changes from pretest to posttest can be reasonably attributed to the intervention
+-   Most basic is the pretest-posttest control group design (RCT)
+
+## Experimental studies II
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+**Strengths**
+
+-   Controls the influence of confounding variables
+-   Randomization eliminates bias
+-   Blinding the interventions eliminates bias
+:::
+
+::: {.column width="50%"}
+**Weaknesses**
+
+-   Costly in time and money
+-   Many research questions are not suitable for experimental designs
+-   Usually reserved for more mature research questions
+-   Experiments tend to restrict the scope and narrow the study question
+:::
+:::
+
+## Quasi-Experimental studies
+
+<hr>
+
+-   Aims to establish a cause-and-effect relationship
+-   Useful when true experiment cannot be done (ethical, practical, etc)
+-   Do not use randomized assignments for comparisons (Non-random assignment)
+-   Control group not mandatory
+
+::: {.callout-note title="Example"}
+To investigate the relationship between Smoking and immediated Blood pressure measurement
+:::
+
+## Sampling
+
+<hr>
+
+**Population in research**
+
+-   [Target population]{.highlight}: Any specified group (usually large) of persons, things, or
+    measurement values, e.g. the study population, the sampled population, the target population.
+-   [Study population]{.highlight}: This is a subset of a population, whose properties have been, or
+    are to be, generalized to the larger population or set.
+-   [Sampling]{.highlight}: This is a process of picking a sample from the population.
+-   [Sample]{.highlight}: Members of the study population who are selected for the study. Should be
+    representative of the target population
+
+## Sampling in research
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Non-Probability
+
+-   Convenience sampling
+-   Consecutive sampling
+-   Snowballing
+-   Quota sampling
+-   Purposive sampling
+-   Responder driven sampling (RDS)
+:::
+
+::: {.column width="50%"}
+Probability
+
+-   Simple random sampling
+-   Systematic sampling
+-   Stratified sampling
+-   Cluster sampling
+-   Multistage sampling
+:::
+:::
+
+## Simple Random Sampling
+
+<hr>
+
+Properties
+
+-   Each member of a population has an equal chance of being selected.
+-   The sample is chosen randomly without any prior defined selection process.
+-   Unbiased method of selecting sample
+
+![](./Images\balls-in-bag.jpg){.absolute bottom="20" right="100" width="400"}
+
+## Simple Random Sampling II
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Advantages
+
+-   Minimal knowledge of group required
+-   Free from error of classification
+-   Suitable for data analysis
+-   Free from bias
+-   Simple to use
+:::
+
+::: {.column width="50%"}
+Disadvantages
+
+-   Population should not be dispersed
+-   Unusable in an heterogeneous
+-   Lacks use of available knowledge concerning population.
+-   Need for a well laid out sampling frame.
+:::
+:::
+
+----------------------------------------------------------------------------------------------------
+
+## Systematic Random Sampling
+
+<hr>
+
+Steps
+
+-   Define your population
+-   Generate your sampling interval
+-   Randomly select first participant
+-   select subsequent regular intervals
+
+![](./Images\systematic_random_sampling.jpg){.absolute bottom="20" right="100" width="800"}
+<img style="width: 100%"/>
+
+----------------------------------------------------------------------------------------------------
+
+## Systematic Random Sampling II
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Advantages
+
+-   Simple to implement
+-   Simple to design
+-   No need for a ssmpling frame
+-   Good coverage of study area
+:::
+
+::: {.column width="50%"}
+Disadvantages
+
+-   Might introduce bias
+    -   Trend
+    -   Periodicity
+:::
+:::
+
+## Stratified Random sampling
+
+<hr>
+
+::: {.callout-note icon="false" title="Definition"}
+A method of selecting a sample by dividing a population into smaller subgroups (strata) based on
+shared characteristics.
+:::
+
+![](./Images\stratified_random_sampling.jpg){.absolute bottom="20" right="300" width="500"}
+
+## Stratified Random Sampling II
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Advantages
+
+-   All groups included
+-   Statistical precision increased
+:::
+
+::: {.column width="50%"}
+Disadvantages
+
+-   Strata might be difficult to determine
+-   Sampling error difficult to measure
+:::
+:::
+
+## Cluster Sampling
+
+<hr>
+
+::: {.callout icon="false," title="Definition"}
+This is a method of obtaining a representative sample from a population by dividing it into separate
+groups or clusters.
+:::
+
+Steps:
+
+-   Divide population into clusters.
+-   Random selection of some clusters
+-   All members of cluster included in sample.
+
+![](./Images\cluster_sampling.jpeg){.absolute bottom="0" right="0" width="500"}
+
+## Multistage sampling
+
+<hr>
+
+![](./Images\multistage_sampling.jpg){.absolute bottom="20" right="300" width="800"}
+
+## Convieneince sampling
+
+<hr>
+
+::: {.callout-note icon="false" title="Definition"}
+Collection of data from population that is convieniently avaiable to provide. Also called
+*"Accidental sampling"*
+:::
+
+::: columns
+::: {.column width="50%"}
+**Advantages**
+
+-   High participation rate
+-   Easy to implement
+:::
+
+::: {.column width="50%"}
+**Disadvantages**
+
+-   Difficualt to generalise
+-   Bias
+:::
+:::
+
+## Consecutive sampling
+
+<hr>
+
+::: {.callout-note icon="false" title="Definition"}
+This is a **non-probability** sampling technique where the researcher selects the sample units from
+a population in the order in which they appear.
+:::
+
+::: columns
+::: {.column width="50%"}
+1.  Advantages
+    -   Fast and easy to carry out
+    -   Cheap and affordable
+    -   Researcher selection freedonm
+:::
+
+::: {.column width="50%"}
+2.  Disadvantages
+    -   Selection bias
+    -   Can only be used in small sample sizes
+:::
+:::
+
+## Snowballing Sampling
+
+<hr>
+
+<img src="Images\snowballing_sampling.jpg" style="width: 80%"/>
+
+## Sample Size
+
+<hr>
+
+-   Why bother
+    -   Identify study population
+    -   Draw a sample
+    -   Describe sample (e.g mean)
+    -   Make inferences about the whole population
+
+![](./Images/sample_size.jpg){.absolute bottom="20" right="0" width="600"}
+
+## Sample size - how many?
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+-   Determinants
+    -   Study objectives
+    -   Type of study
+    -   Study design
+    -   Variables to be measured
+    -   Achievability
+:::
+
+::: {.column width="50%"}
+-   Too little
+    -   Not representative enough
+    -   Cannot make reasonable conclusions about population
+    -   Waste of resources
+    -   Ethically improper
+-   Too much
+    -   Waste of resources
+    -   Data redundancy
+    -   Ethically improper
+:::
+:::
+
+## Sample size - not one formula fits all!!! {style="color: #000000; font-size: 36px;"}
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+**Sample size to determine the average systolic blood pressure of KATH workers**
+
+<br>
+
+$$ n = \frac{Z^2 \sigma^2}{E^2} $$
+:::
+
+::: {.column width="50%"}
+**Sample size required to determine proportion of hypertensives in KATH**
+
+<br> <br>
+
+$$ n = \frac{Z_\frac{1}{\alpha}^2 p (1-p)}{d^2} $$
+:::
+:::
+
+## Sample size – Comparing 2 means {style="color: #000000; font-size: 34px;"}
+
+<hr>
+
+-   $\mu_A$ is the mean in group A
+-   $\mu_B$ is the mean in group B
+-   $n_A$ is the sample size in first group
+-   $n_B$ is the sample size in second group
+-   $\kappa = \frac{n_A}{n_B}$ is the matching ratio
+-   $\alpha$ is the type I error rate
+-   $\beta$ is the type II error
+
+$$n_A=\kappa n_B \;\text{ and }\;
+        n_B=\left(1+\frac{1}{\kappa}\right)
+            \left(\sigma\frac{z_{1-\alpha/2}+z_{1-\beta}}{\mu_A-\mu_B}\right)^2$$
+
+## Case-control study {style="color: #000000; font-size: 32px;"}
+
+<hr>
+
+Using the formulas below by Campbell et al
+$$n=\frac{[Z_{1-\alpha/2}\sqrt{2\bar{p}(1-\bar{p})}+Z_{1-\beta}\sqrt{p_A(1-p_A)+p_B(1-p_B)}]^2}{\delta^2}$$
+and $$N=\frac{r+1}{2r}\times n$$
+
+-   Where: $p_A$ and $p_B$ is the prevalence of the complications in hypertensives and
+    non-hypertensives respectively.
+-   $\delta=p_A-p_B$, and $\bar{p}=\frac{(p_A+p_B)}{2}$, $Z_{1-\alpha/2}=1.96$ and
+    $Z_{1-\beta}=0.84$. $n$
+
+## Database design, validation and verification
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+1.  Validation
+    -   Limits
+    -   Valid ranges
+    -   Allowable values
+    -   Some software better than others
+2.  Cleaning
+    -   Regular review of filled questionnaires
+    -   Weekly checking of entered data for correctness
+:::
+
+::: {.column width="50%"}
+3.  Verification
+    -   **Single entry**
+        -   10% verification
+        -   Whole database verification
+    -   **Double entry**
+        -   Create identical database
+        -   Double enter data
+        -   Picks data entry errors
+        -   Compare the data from both databases
+        -   Identify discrepancies
+        -   Correct errors as necessary
+:::
+:::
+
+## Data Warehousing
+
+<hr>
+
+**Always remember to:**
+
+-   Backup the data regularly – 3 copies
+-   Backup with versions and dates
+-   Keep in the appropriate format
+    -   Microsoft Excel
+    -   Text files
+    -   PDF
+    -   Tiff
+
+## Data migration & cleaning
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Cleaning
+
+-   Involves picking out
+    -   Erroneous and
+    -   Missing data
+-   Picks up
+    -   Data collection & entry errors
+-   Strategy depends on
+    -   Continuous variable
+    -   Discrete variable
+    -   Categorical
+:::
+
+::: {.column width="50%"}
+Migration
+
+-   Moving data around
+-   Should be in stable state
+-   Not all software requires this
+:::
+:::
+
+## Data Analysis
+
+<hr>
+
+![](./Images/variable_types.jpeg){.absolute bottom="20" right="100"}
+
+## Variable types
+
+<hr>
+
+1.  Independent (predictor) variable
+    -   Potentially influences, affects or predicts another variable
+    -   E.g: How age influences income make age the independent variable
+2.  Dependent (predicted) variable
+    -   Potentially predicted, influenced and affected by another variable
+    -   E.g: How age influences income make income the dependent variable
+3.  Software
+    -   R - Analysis only
+    -   Microsoft Excel - Entry and analysis
+    -   Stata - Analysis only
+    -   SPSS - Entry and analysis
+
+## Data analysis
+
+<hr>
+
+::: columns
+::: {.column width="50%"}
+Descriptive analysis
+
+-   Describe your data
+-   Categorical variables
+    -   Univariate
+        -   Frequencies + percentages
+    -   Bivariate
+        -   Frequencies + percentage
+-   Numerical variables
+    -   Normally distributed: Mean(SD)
+    -   Not normally distributed: Median(IQR)
+:::
+
+::: {.column width="50%"}
+Inferential analysis
+
+-   Uses sampled data to draw conclusions about a larger population.
+-   Allows you to make generalizations about a population based on data from samples.
+-   Involves testing hypotheses and deriving estimates
+    -   P-values
+    -   Confidence intervals
+:::
+:::
+
+## Presentation of results
+
+<hr>
+
+-   Text, graphs, maps, tables, etc
+
+![](./Images/table-example.jpg){.absolute bottom="100" left="0" width="600"}
+![](./Images/boxplot-example.jpg){.absolute bottom="100" right="0" width="500"}
+
+# Mixed methods {.center background-color="#505A5B"}
+
+## What is mixed-methods research
+
+<hr>
+
+-   Bring quantitative and qualitative researches together
+-   Qualitative component: Used to explore and develop hypothesis
+-   Quantitative component: Used to test the hypothesis
+-   Assumed to be advantageous to either of the two alone
+-   Analysis involves both quantitative and qualitative methods
+
+## Mixed methodology - types
+
+<hr>
+
+5 main types
+
+1.  Convergent parallel design
+2.  Explanatory sequential design
+3.  Exploratory sequential design
+4.  Embedded design
+5.  Transformative Design
+6.  multiphase design
+
+## Convergenet parallel design
+
+<hr>
+
+-   Simulative collect of both qualitative and Quantitative data
+-   Merged but data analysed done seperately
+-   Results used to complement each other
+-   Advantages:
+    -   Combines the two data types
+    -   Quantitative =\> generalisability
+    -   Qualitative =\> provides indepth understanding
+
+E.g: Factors affecting practicing of KMC
+
+## Explanatory sequential design
+
+<hr>
+
+-   Also know as two-phased design
+-   Sarts with quantitave and then qualitattive study
+-   Qualitative gives indepth knowledge behind the results obtianed in quantitative
+
+E.g: Factors affecting practicing of KMC
+
+-   Quantitative: Determine factors
+-   Qualitative: Detemine the thinking behind the observed data
+
+## Exploratory qualitative design
+
+<hr>
+
+-   Similar to above
+-   Qualitative done before quantitative
+-   Qualitative helps to
+    -   Design design quantitative methodology
+    -   Design instrument or questionnnaire
+
+E.g: Factors affecting practicing of KMC
+
+## Take home messagge
+
+<hr>
+
+-   Three types of methodology
+    -   Qualliative
+    -   Quantitative
+    -   Mixed
+-   They all have their individual strengths and weakness
+-   Know which will best fit your objectives
+
+# Any questions? :thinking:
+
+# Thank you! :pray: {.center}
